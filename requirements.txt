@@ -1,0 +1,6 @@
+ccxt
+pandas
+scikit-learn
+numpy
+telebot
+python-dotenv
